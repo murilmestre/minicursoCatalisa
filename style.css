@@ -42,3 +42,11 @@ main > section button {
 
 
 }
+#detalhes-container{
+    font-weight: bold;
+    height: 40px;
+    list-style: none;
+    width: 90%;
+
+
+}
