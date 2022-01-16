@@ -37,15 +37,18 @@ button {
     font-weight: 500;
     letter-spacing: -0.6px;
     line-height: 20px;
+    margin-left: 550px;
+    margin-bottom: 30px;
     margin-top :15px;
     padding: 9px 23px;    
+    text-align: center;
     text-transform: uppercase;
 
 
 }
 #detalhes-container{
     font-weight: bold;
-    height: 40px;
+    height: 25px;
     list-style: none;
     width: 90%;
 
